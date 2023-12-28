@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab9d1c43-d0e9-4fa3-a7a7-e62c08f15f45" name="Changes" comment="">
+    <list default="true" id="ab9d1c43-d0e9-4fa3-a7a7-e62c08f15f45" name="Changes" comment="1) Added a new LinkedList&#10;2) Added LinkedList Class with Methods &#10;3) InsertLeft&#10;4) InsertRight&#10;5) PrintLinked">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pulukuri-Mohan-Sai-Chandra&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bd8a0691-6316-419b-9f03-00c6ea92f8a1" />
+        <option name="url" value="https://github.com/Pulukuri-Mohan-Sai-Chandra/Problem-Solving-In-Java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -37,10 +53,24 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pulukurimohan.c/Desktop/Problem-Solving-Java/Problem-Solving-In-Java/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pulukurimohan.c/Desktop/Problem-Solving-Java/Problem-Solving-In-Java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Shape">
+    <configuration name="LearnNestedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearingPackage.LearnNestedClass" />
+      <module name="Problem-Solving-In-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LearingPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problem-Solving-In-Java" />
@@ -48,8 +78,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearingPackage.Shape" />
+      <module name="Problem-Solving-In-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LearingPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shape" />
+        <item itemvalue="Application.LearnNestedClass" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -63,6 +108,30 @@
       <option name="presentableId" value="Default" />
       <updated>1703615740638</updated>
     </task>
+    <task id="LOCAL-00001" summary="1) Added a new LinkedList&#10;2) Added LinkedList Class with Methods &#10;3) InsertLeft&#10;4) InsertRight&#10;5) PrintLinked">
+      <option name="closed" value="true" />
+      <created>1703689909823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703689909823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1) Added a new LinkedList&#10;2) Added LinkedList Class with Methods &#10;3) InsertLeft&#10;4) InsertRight&#10;5) PrintLinked" />
+    <option name="LAST_COMMIT_MESSAGE" value="1) Added a new LinkedList&#10;2) Added LinkedList Class with Methods &#10;3) InsertLeft&#10;4) InsertRight&#10;5) PrintLinked" />
   </component>
 </project>
