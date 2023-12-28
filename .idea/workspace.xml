@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab9d1c43-d0e9-4fa3-a7a7-e62c08f15f45" name="Changes" comment="1) Added a new LinkedList&#10;2) Added LinkedList Class with Methods &#10;3) InsertLeft&#10;4) InsertRight&#10;5) PrintLinked">
+    <list default="true" id="ab9d1c43-d0e9-4fa3-a7a7-e62c08f15f45" name="Changes" comment="- Working Of Inheritance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LearingPackage/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearingPackage/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LearingPackage/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearingPackage/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LearingPackage/TwoDShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearingPackage/TwoDShape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703689909823</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- Working Of Inheritance">
+      <option name="closed" value="true" />
+      <created>1703771888916</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703771888916</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,7 +135,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -132,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1) Added a new LinkedList&#10;2) Added LinkedList Class with Methods &#10;3) InsertLeft&#10;4) InsertRight&#10;5) PrintLinked" />
-    <option name="LAST_COMMIT_MESSAGE" value="1) Added a new LinkedList&#10;2) Added LinkedList Class with Methods &#10;3) InsertLeft&#10;4) InsertRight&#10;5) PrintLinked" />
+    <MESSAGE value="- Working Of Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Working Of Inheritance" />
   </component>
 </project>

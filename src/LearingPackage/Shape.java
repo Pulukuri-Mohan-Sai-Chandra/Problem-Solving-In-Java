@@ -3,16 +3,15 @@ package LearingPackage;
 public class Shape {
 
     public static void main(String args[]){
-        Triangle t1 = new Triangle();
-        Triangle t2 = new Triangle();
-        t1.height = 12;
-        t2.height = 11;
-        t1.width = 122;
-        t2.width = 111;
-        t1.style = "Filled";
-        t2.style = "Outline";
-        t1.showDim();
-        t2.showDim();
+
+        Triangle sp1 = new Triangle(10,10,"Filled");
+        Triangle sp2 = new Triangle(11,12,"Outline");
+
+        System.out.println("The Area of the Triangle sp1 is " + sp1.area());
+        System.out.println("The Area of the Triangle sp2 is " + sp2.area());
+        sp1.showDim();
+        sp2.showDim();
+
 
     }
 
