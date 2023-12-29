@@ -4,9 +4,11 @@ public class Triangle extends TwoDShape {
 
     private String style;
 
+    Triangle(){
+        System.out.println("Default Constructure of Triangle is Called");
+    }
      Triangle(int height,int widht, String style){
-        setHeight(height);
-        setWidth(widht);
+        super(height,widht);
         this.style = style;
     }
 

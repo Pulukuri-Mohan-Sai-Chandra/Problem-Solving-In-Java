@@ -5,6 +5,13 @@ public class TwoDShape {
     private int height;
     private int width;
 
+    TwoDShape(){
+        System.out.println("Two D Shape Default Constructure is Called");
+    }
+    TwoDShape(int height,int width){
+        this.height = height;
+        this.width = width;
+    }
      void setHeight(int data){
         this.height = data;
     }
